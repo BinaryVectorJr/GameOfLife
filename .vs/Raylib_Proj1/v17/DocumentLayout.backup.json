@@ -1,26 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\",
+  "WorkspaceRootPath": "E:\\Projects\\Visual Studio\\GameOfLife\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\Raylib_Proj1\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\GameOfLife\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|solutionrelative:src\\simulationManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|solutionrelative:src\\grid.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|solutionrelative:src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A5E815DB-59AB-441A-83C1-10B4CE643C1D}|Raylib_Proj1.vcxproj|solutionrelative:src\\simulationManager.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,66 +20,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "main.cpp",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\main.cpp",
+              "DocumentMoniker": "E:\\Projects\\Visual Studio\\GameOfLife\\main.cpp",
               "RelativeDocumentMoniker": "main.cpp",
-              "ToolTip": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\main.cpp",
+              "ToolTip": "E:\\Projects\\Visual Studio\\GameOfLife\\main.cpp",
               "RelativeToolTip": "main.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAACsAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-30T09:21:18.334Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "simulationManager.hpp",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.hpp",
-              "RelativeDocumentMoniker": "src\\simulationManager.hpp",
-              "ToolTip": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.hpp",
-              "RelativeToolTip": "src\\simulationManager.hpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T01:24:46.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "simulationManager.cpp",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.cpp",
-              "RelativeDocumentMoniker": "src\\simulationManager.cpp",
-              "ToolTip": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\simulationManager.cpp",
-              "RelativeToolTip": "src\\simulationManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T01:32:57.25Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "grid.hpp",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.hpp",
-              "RelativeDocumentMoniker": "src\\grid.hpp",
-              "ToolTip": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.hpp",
-              "RelativeToolTip": "src\\grid.hpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-09-14T15:26:00.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "grid.cpp",
-              "DocumentMoniker": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.cpp",
-              "RelativeDocumentMoniker": "src\\grid.cpp",
-              "ToolTip": "E:\\Projects\\Visual Studio\\Raylib_Proj1\\src\\grid.cpp",
-              "RelativeToolTip": "src\\grid.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-14T15:26:02.542Z",
+              "WhenOpened": "2025-09-15T03:10:20.765Z",
               "EditorCaption": ""
             }
           ]

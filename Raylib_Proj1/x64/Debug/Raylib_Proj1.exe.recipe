@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>E:\Projects\Visual Studio\Raylib_Proj1\x64\Debug\Raylib_Proj1.exe</FullPath>
+      <FullPath>E:\Projects\Visual Studio\GameOfLife\x64\Debug\Raylib_Proj1.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />
