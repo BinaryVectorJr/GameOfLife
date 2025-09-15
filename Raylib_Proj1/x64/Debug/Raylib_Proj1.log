@@ -1,0 +1,6 @@
+﻿  main.cpp
+E:\Projects\Visual Studio\Raylib_Proj1\main.cpp(37,30): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+E:\Projects\Visual Studio\Raylib_Proj1\main.cpp(38,33): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  simulationManager.cpp
+  Generating Code...
+  Raylib_Proj1.vcxproj -> E:\Projects\Visual Studio\Raylib_Proj1\x64\Debug\Raylib_Proj1.exe
